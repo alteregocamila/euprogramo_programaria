@@ -6,3 +6,6 @@ The course "eu progr{amo} " is a journey that lasted 4 weeks and we went through
 
 Follow the link to the final project published on GitHub Page, my very first website: 🦸‍♀
 <a href = 'https://alteregocamila.github.io/euprogramo_programaria/'>Ada Lovelace</a> 🚀
+
+🚀
+<a href = 'https://alteregocamila.github.io/euprogramo_programaria/euprogramo_programaria_refact/'>Ada Lovelace - code_refact</a> 🚀
